@@ -7,7 +7,7 @@
 Name:		texlive-collection-documentation-vietnamese
 Epoch:		1
 Version:	20120224
-Release:	3
+Release:	4
 Summary:	Vietnamese documentation
 Group:		Publishing
 URL:		http://tug.org/texlive
